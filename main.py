@@ -1,3 +1,7 @@
+#Rodrigo Israe Crranza Gonzales
+#Gloria Eden Rios De Osio
+#Kenya Palafox Fong
+#Rodrigo Tadeo Munoz Lopez
 from ordenamientos import (
     bubble_sort,
     insertion_sort,
