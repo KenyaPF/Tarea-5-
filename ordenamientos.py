@@ -1,4 +1,4 @@
-# ---------------------------------------------------------
+
 # Módulo: ordenamientos.py
 # Aquí implementarán sus funciones de ordenamiento.
 #
@@ -16,7 +16,11 @@
 #   5. Merge Sort
 #   6. QuickSort (solo pivote central)
 # ---------------------------------------------------------
-
+#INTEGRANTES: 
+#- KENYA PALAFOX FONG
+#- GLORIA EDEN RIOS DE OSIO 
+#- RODRIGO ISRAEL CARRANZA GONZALES 
+#- RODRIGO TADEO MUÑOZ LOPEZ 
 def bubble_sort(lista, ascendente=True):
     """
     Implementa el algoritmo Bubble Sort.
