@@ -1,0 +1,50 @@
+Maryam Mirzakhani
+Andrew Wiles
+Donald Knuth
+Tim Berners-Lee
+Dennis Ritchie
+Barbara Liskov
+Edsger Dijkstra
+Guido van Rossum
+Linus Torvalds
+Margaret Hamilton
+Augustin Fresnel
+George Boole
+John Bardeen
+Werner Heisenberg
+Enrico Fermi
+Subrahmanyan Chandrasekhar
+Alan Guth
+Freeman Dyson
+Hypatia de Alejandría
+Ibn al-Haytham
+Al-Khwarizmi
+Florence Nightingale
+John Nash
+Henri Poincaré
+Srinivasa Ramanujan
+Ada Lovelace
+Alan Turing
+Albert Einstein
+Isaac Newton
+Marie Curie
+Katherine Johnson
+Carl Gauss
+Leonhard Euler
+Sofia Kovalevskaya
+Richard Feynman
+Niels Bohr
+Grace Hopper
+John von Neumann
+Stephen Hawking
+Emmy Noether
+Nikola Tesla
+Claude Shannon
+Blaise Pascal
+Galileo Galilei
+Johannes Kepler
+Max Planck
+Paul Dirac
+David Hilbert
+Kurt Gödel
+Hedy Lamarr
